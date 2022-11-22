@@ -18,7 +18,7 @@
 
 ### Works
 
-<div style="text-align:justify;text-justify:inter-ideograph">Nianchang Huang, Jianan Liu, Yunqi Miao, Qiang Zhang* and Jungong Han, Deep learning for visible-infrared cross-modality person re-identification: A comprehensive review, Information Fusion, 2023,91:396-411. DOI:10.1016/j.inffus.2022.10.024.</div>
+<div style="text-align:justify;text-justify:inter-ideograph">\*Nianchang Huang, Jianan Liu, Yunqi Miao, Qiang Zhang* and Jungong Han, Deep learning for visible-infrared cross-modality person re-identification: A comprehensive review, Information Fusion, 2023,91:396-411. DOI:10.1016/j.inffus.2022.10.024.</div>
 
 
 
