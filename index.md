@@ -21,6 +21,6 @@
 <div style="text-align:justify;text-justify:inter-ideograph">1.*Nianchang Huang, Jianan Liu, Yunqi Miao, Qiang Zhang* and Jungong Han, Deep learning for visible-infrared cross-modality person re-identification: A comprehensive review, Information Fusion, 2023,91:396-411. DOI:10.1016/j.inffus.2022.10.024.</div>
 <br/>
 <div style="text-align:justify;text-justify:inter-ideograph">2.Nianchang Huang, Jianan Liu, Yongjiang Luo, Qiang Zhang* and Jungong Han, Exploring modality-shared appearance features and modality-invariant relation features for cross-modality person re-identification, Pattern Recognition, 2023, 135:109145. DOI:10.1016/j.patcog.2022.109 145.</div>
-
-
+<br/>
+Nianchang Huang, Qiang Jiao, Qiang Zhang* ,Jungong Han. Middle-level Feature Fusion for Lightweight RGB-D Salient Object Detection, IEEE Transactions on Image Processing, 2022. DOI: 10.1109/TIP.2022.3214092.
 	
