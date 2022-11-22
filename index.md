@@ -18,17 +18,17 @@
 
 ### Publications
 【2022年】
-1. Nianchang Huang, Jianan Liu, Yunqi Miao, Qiang Zhang* and Jungong Han, Deep learning for visible-infrared cross-modality person re-identification: A comprehensive review, Information Fusion, 2023,91:396-411. DOI:10.1016/j.inffus.2022.10.024.
-2. Nianchang Huang, Jianan Liu, Yongjiang Luo, Qiang Zhang* and Jungong Han, Exploring modality-shared appearance features and modality-invariant relation features for cross-modality person re-identification, Pattern Recognition, 2023, 135:109145. DOI:10.1016/j.patcog.2022.109 145.
-3. Nianchang Huang, Qiang Jiao, Qiang Zhang* ,Jungong Han. Middle-level Feature Fusion for Lightweight RGB-D Salient Object Detection, IEEE Transactions on Image Processing, 2022. DOI: 10.1109/TIP.2022.3214092.
-4. Qiang Zhang, Ruida Xi, Tonglin Xiao, Nianchang Huang, Yongjiang Luo. Enabling modality interactions for RGB-T salient object detection. Computer Vision and Image Understanding, 2022, 222:102514. 
-5. Qiang Zhang, Xueru Liu, Tianlu Zhang. RGB-T tracking by modality difference reduction and feature re-selection. Image and Vision Computing, 2022, 127: 104547.
-6. Nianchang Huang, Yongjiang Luo, Qiang Zhang*, Jungong Han. Discriminative Unimodal Feature Selection and Fusion for RGB-D Salient Object Detection, Pattern Recognition, 2022, 122: 108359. 
-7. Nianchang Huang, Kunlong Liu, Yang Liu, Qiang Zhang*, Jungong Han*, Cross-modality person re-identification via multi-task learning, Pattern Recognition, 2022,128:108653-108653.
-8. Tianlu Zhang, Xueru Liu, Qiang Zhang*, Jungong Han*. SiamCDA: Complementarity- and distractor-aware RGB-T tracking based on Siamese network. IEEE Transactions on Circuits and Systems for Video Technology, 2022, 32(3): 1403 - 1417. 
-9. Jianan Liu, Jialiang Wang, Nianchang Huang*, Qiang Zhang*, Jungong Han, Revisiting modality-specific feature compensation for visible-infrared person re-identification, IEEE Transactions on Circuits and Systems for Video Technology, 2022. Accepted. DOI：10.1109/TCSVT.2022.3168999.（中科院1区, Top）
-10. Yang Yang, Qi Qin, Yongjiang Luo, Yi Liu*, Qiang Zhang*, Jungong Han. Bi-directional progressive guidance network for RGB-D salient object detection. IEEE Transactions on Circuits and Systems for Video Technology, 2022. Accepted. Doi: 10.1109/TCSVT.2022.3144852. （中科院1区, Top）
-11. Qiang Zhang, Changzhou Lai, Jianan Liu, Nianchang Huang*, Jungong Han, FMCNet: feature-level modality compensation for visible-infrared person re-identification, Proceedings of the Conference on Computer Vision and Pattern Recognition (CVPR), 2022. Accepted. (CCF-A类，计算机视觉3大顶会之一)
+1. Nianchang Huang, Jianan Liu, Yunqi Miao, Qiang Zhang* and Jungong Han, Deep learning for visible-infrared cross-modality person re-identification: A comprehensive review, Information Fusion, 2023,91:396-411. DOI:10.1016/j.inffus.2022.10.024.<br/>
+3. Nianchang Huang, Jianan Liu, Yongjiang Luo, Qiang Zhang* and Jungong Han, Exploring modality-shared appearance features and modality-invariant relation features for cross-modality person re-identification, Pattern Recognition, 2023, 135:109145. DOI:10.1016/j.patcog.2022.109 145.
+4. Nianchang Huang, Qiang Jiao, Qiang Zhang* ,Jungong Han. Middle-level Feature Fusion for Lightweight RGB-D Salient Object Detection, IEEE Transactions on Image Processing, 2022. DOI: 10.1109/TIP.2022.3214092.
+5. Qiang Zhang, Ruida Xi, Tonglin Xiao, Nianchang Huang, Yongjiang Luo. Enabling modality interactions for RGB-T salient object detection. Computer Vision and Image Understanding, 2022, 222:102514. 
+6. Qiang Zhang, Xueru Liu, Tianlu Zhang. RGB-T tracking by modality difference reduction and feature re-selection. Image and Vision Computing, 2022, 127: 104547.
+7. Nianchang Huang, Yongjiang Luo, Qiang Zhang*, Jungong Han. Discriminative Unimodal Feature Selection and Fusion for RGB-D Salient Object Detection, Pattern Recognition, 2022, 122: 108359. 
+8. Nianchang Huang, Kunlong Liu, Yang Liu, Qiang Zhang*, Jungong Han*, Cross-modality person re-identification via multi-task learning, Pattern Recognition, 2022,128:108653-108653.
+9. Tianlu Zhang, Xueru Liu, Qiang Zhang*, Jungong Han*. SiamCDA: Complementarity- and distractor-aware RGB-T tracking based on Siamese network. IEEE Transactions on Circuits and Systems for Video Technology, 2022, 32(3): 1403 - 1417. 
+10. Jianan Liu, Jialiang Wang, Nianchang Huang*, Qiang Zhang*, Jungong Han, Revisiting modality-specific feature compensation for visible-infrared person re-identification, IEEE Transactions on Circuits and Systems for Video Technology, 2022. Accepted. DOI：10.1109/TCSVT.2022.3168999.（中科院1区, Top）
+11. Yang Yang, Qi Qin, Yongjiang Luo, Yi Liu*, Qiang Zhang*, Jungong Han. Bi-directional progressive guidance network for RGB-D salient object detection. IEEE Transactions on Circuits and Systems for Video Technology, 2022. Accepted. Doi: 10.1109/TCSVT.2022.3144852. （中科院1区, Top）
+12. Qiang Zhang, Changzhou Lai, Jianan Liu, Nianchang Huang*, Jungong Han, FMCNet: feature-level modality compensation for visible-infrared person re-identification, Proceedings of the Conference on Computer Vision and Pattern Recognition (CVPR), 2022. Accepted. (CCF-A类，计算机视觉3大顶会之一)
 【2021年】
 12. Yi Liu, Dingwen Zhang, Qiang Zhang*, Jungong Han*. Part-object relational visual saliency. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021. Accepted. DOI：10.1109/TPAMI.2021.3053577.（中科院1区，Top）
 13. Qiang Zhang, Mingxing Duanmu, Yongjiang Luo,  Yi Liu*, Jungong Han*. Engaging Part-whole Hierarchies and Contrast Cues for Salient Object Detection. IEEE Transactions on Circuits and Systems for Video Technology, 2021. Accepted. DOI:10.1109/TCSVT.2021.3104932 (中科院1区，Top)
