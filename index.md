@@ -10,7 +10,7 @@
     <p> Deep Learning</p>  
     <p> Image Processing</p>      
    </td>
-    <td width="30%">
+    <td width="50%">
       <img src="/Qiang_Zhang.jpg" width="100%">
    </td>
   </tr>  
