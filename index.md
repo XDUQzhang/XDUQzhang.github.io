@@ -11,7 +11,7 @@
     <p> Deep Learning</p>  
     <p> Image Processing</p>      
    </td>
-    <td width="50%">
+    <td width="100%">
       <img src="/Qiang_Zhang.jpg" width="100%">
    </td>
   </tr>  
@@ -19,7 +19,7 @@
 
 ### Publications
 #### 【2022年】
-1. Nianchang Huang, Jianan Liu, Yunqi Miao, Qiang Zhang* and Jungong Han, Deep learning for visible-infrared cross-modality person re-identification: A comprehensive review, Information Fusion, 2023,91:396-411. DOI:10.1016/j.inffus.2022.10.024.
+1. Nianchang Huang, Jianan Liu, Yunqi Miao, **Qiang Zhang*** and Jungong Han, Deep learning for visible-infrared cross-modality person re-identification: A comprehensive review, ***Information Fusion***, 2023,91:396-411. DOI:10.1016/j.inffus.2022.10.024.
 <br/>
 2. Nianchang Huang, Jianan Liu, Yongjiang Luo, Qiang Zhang* and Jungong Han, Exploring modality-shared appearance features and modality-invariant relation features for cross-modality person re-identification, Pattern Recognition, 2023, 135:109145. DOI:10.1016/j.patcog.2022.109 145.
 <br/>
