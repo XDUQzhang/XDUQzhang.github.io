@@ -33,13 +33,13 @@
 <br/>
 7. Nianchang Huang, Kunlong Liu, Yang Liu, **Qiang Zhang*** , Jungong Han*, Cross-modality person re-identification via multi-task learning, ***Pattern Recognition***, 2022,128:108653-108653.
 <br/>
-8. Tianlu Zhang, Xueru Liu, **Qiang Zhang*** , Jungong Han*. SiamCDA: Complementarity- and distractor-aware RGB-T tracking based on Siamese network. ***IEEE Transactions on Circuits and Systems for Video Technology***, 2022, 32(3): 1403 - 1417. 
+8. Tianlu Zhang, Xueru Liu, **Qiang Zhang*** , Jungong Han*. SiamCDA: Complementarity- and distractor-aware RGB-T tracking based on Siamese network. ***IEEE Transactions on Circuits and Systems for Video Technology*** , 2022, 32(3): 1403 - 1417. 
 <br/>
 9. Jianan Liu, Jialiang Wang, Nianchang Huang*, **Qiang Zhang*** , Jungong Han, Revisiting modality-specific feature compensation for visible-infrared person re-identification, ***IEEE Transactions on Circuits and Systems for Video Technology***, 2022. DOI：10.1109/TCSVT.2022.3168999.
 <br/>
 10. Yang Yang, Qi Qin, Yongjiang Luo, Yi Liu*, **Qiang Zhang*** , Jungong Han. Bi-directional progressive guidance network for RGB-D salient object detection. ***IEEE Transactions on Circuits and Systems for Video Technology***, 2022. Doi: 10.1109/TCSVT.2022.3144852. 
 <br/>
-11. **Qiang Zhang**, Changzhou Lai, Jianan Liu, Nianchang Huang*, Jungong Han, FMCNet: feature-level modality compensation for visible-infrared person re-identification, ***Proceedings of the Conference on Computer Vision and Pattern Recognition (CVPR)***, 2022.
+11. **Qiang Zhang**, Changzhou Lai, Jianan Liu, Nianchang Huang*, Jungong Han, FMCNet: feature-level modality compensation for visible-infrared person re-identification, ***Proceedings of the Conference on Computer Vision and Pattern Recognition (CVPR)*** , 2022.
 
 
 #### 【2021年】
