@@ -6,7 +6,7 @@
     <p><b> Ph.D., Professor </b></p>
     <p><b> Email: qzhang@xidian.edu.cn </b></p> 
     <p> <b> Research Interests: </b> </p>
-    <p> Computer vision </p>  
+    <p> Computer Vision </p>  
     <p> Deep Learning</p>  
     <p> Image Processing</p>      
    </td>
