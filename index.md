@@ -39,7 +39,7 @@
 <br/>
 10. Yang Yang, Qi Qin, Yongjiang Luo, Yi Liu*, **Qiang Zhang*** , Jungong Han. Bi-directional progressive guidance network for RGB-D salient object detection. ***IEEE Transactions on Circuits and Systems for Video Technology***, 2022. Doi: 10.1109/TCSVT.2022.3144852. 
 <br/>
-11. **Qiang Zhang**, Changzhou Lai, Jianan Liu, Nianchang Huang*, Jungong Han, FMCNet: feature-level modality compensation for visible-infrared person re-identification, ***Proceedings of the Conference on Computer Vision and Pattern Recognition (CVPR)*** , 2022.
+11. **Qiang Zhang**, Changzhou Lai, Jianan Liu, Nianchang Huang*, Jungong Han, FMCNet: feature-level modality compensation for visible-infrared person re-identification, **_Proceedings of the Conference on Computer Vision and Pattern Recognition (CVPR)_**, 2022.
 
 
 #### 【2021年】
