@@ -20,11 +20,9 @@
 ### Publications
 #### 【2024年】
 
-<div style="text-align: justify;">
 1. Tianlu Zhang, Ziniu Jin, Kurt Debattista, **Qiang Zhang***, and Jungong Han. Enhancing visual tracking with a unified temporal transformer framework, **_IEEE Transactions on Intelligent Vehicles_**, 2024.
 2. Tianlu Zhang, Xiaoyi He, Qiang Jiao, **Qiang Zhang***, and Jungong Han. AMNet: Learning to align multi-modality for RGB-T tracking, **_IEEE Transactions on Circuits and Systems for Video Technology_**, 2024. 10.1109/TCSVT.2024.3377471.
 3. Nianchang Huang, Baichao Xing, **Qiang Zhang***, Jungong Han and Jin Huang. Co-segmentation assisted cross-modality person re-identification, **_Information Fusion_**, 2024, 104: 102194.
-</div>
 
 #### 【2023年】
 
